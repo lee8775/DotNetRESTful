@@ -1,0 +1,230 @@
+ 
+记录时间：2016-01-13 21:42:24,784 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 21:42:56,517 线程ID:[9] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Base-64 字符数组或字符串的长度无效。
+ 
+ 
+记录时间：2016-01-13 21:43:02,545 线程ID:[10] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：要解密的数据的长度无效。
+ 
+ 
+记录时间：2016-01-13 21:43:15,292 线程ID:[6] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/CheckToken  OK
+ 
+ 
+记录时间：2016-01-13 21:43:40,774 线程ID:[6] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 21:43:57,089 线程ID:[6] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/CheckToken  OK
+ 
+ 
+记录时间：2016-01-13 21:56:46,762 线程ID:[6] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 21:57:20,999 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/CheckToken  OK
+ 
+ 
+记录时间：2016-01-13 22:00:35,032 线程ID:[10] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/CheckToken  OK
+ 
+ 
+记录时间：2016-01-13 22:00:44,849 线程ID:[10] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：不正确的数据。
+
+ 
+ 
+记录时间：2016-01-13 22:04:01,675 线程ID:[7] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：指定键的大小对于此算法无效。
+ 
+ 
+记录时间：2016-01-13 22:04:17,912 线程ID:[9] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：指定键的大小对于此算法无效。
+ 
+ 
+记录时间：2016-01-13 22:04:31,768 线程ID:[10] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：指定键的大小对于此算法无效。
+ 
+ 
+记录时间：2016-01-13 22:04:39,612 线程ID:[6] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：指定键的大小对于此算法无效。
+ 
+ 
+记录时间：2016-01-13 22:04:42,922 线程ID:[8] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：指定键的大小对于此算法无效。
+ 
+ 
+记录时间：2016-01-13 22:06:38,112 线程ID:[9] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：“Common.Result”的类型初始值设定项引发异常。
+ 
+ 
+记录时间：2016-01-13 22:08:21,824 线程ID:[7] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：不正确的数据。
+
+ 
+ 
+记录时间：2016-01-13 22:08:38,572 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:08:42,665 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:09:03,212 线程ID:[6] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Base-64 字符数组或字符串的长度无效。
+ 
+ 
+记录时间：2016-01-13 22:09:20,130 线程ID:[8] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:09:22,523 线程ID:[10] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:09:34,534 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/CheckToken  OK
+ 
+ 
+记录时间：2016-01-13 22:10:36,959 线程ID:[8] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/CheckToken  OK
+ 
+ 
+记录时间：2016-01-13 22:10:42,875 线程ID:[10] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/CheckToken  OK
+ 
+ 
+记录时间：2016-01-13 22:24:36,750 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:24:38,540 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:24:39,941 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:24:40,926 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:24:54,737 线程ID:[8] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Base-64 字符数组或字符串的长度无效。
+ 
+ 
+记录时间：2016-01-13 22:24:58,570 线程ID:[8] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Base-64 字符数组或字符串的长度无效。
+ 
+ 
+记录时间：2016-01-13 22:26:16,708 线程ID:[6] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Base-64 字符数组或字符串的长度无效。
+ 
+ 
+记录时间：2016-01-13 22:26:55,084 线程ID:[10] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/TestGet  OK
+ 
+ 
+记录时间：2016-01-13 22:27:39,297 线程ID:[10] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/TestGet  OK
+ 
+ 
+记录时间：2016-01-13 22:30:48,796 线程ID:[8] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:30:50,219 线程ID:[8] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:31:37,287 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/TestGet  OK
+ 
+ 
+记录时间：2016-01-13 22:31:45,930 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:31:50,209 线程ID:[12] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/GetToken  OK
+ 
+ 
+记录时间：2016-01-13 22:42:17,642 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/TestGet  OK
+ 
+ 
+记录时间：2016-01-13 22:42:33,242 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/TestGet  OK
+ 
+ 
+记录时间：2016-01-13 22:50:15,855 线程ID:[12] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：Demo/TestGet  OK
+ 
+ 
+记录时间：2016-01-13 23:27:24,089 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access Demo/TestGet  OK
+operParam:openId=xiali&token=xnpC7TMTRJQtjHriC5tzMSXn5GOTl5Kz&
+ 
+ 
+记录时间：2016-01-13 23:27:26,939 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access Demo/TestGet  OK
+operParam:openId=xiali&token=xnpC7TMTRJQtjHriC5tzMSXn5GOTl5Kz&
+ 
+ 
+记录时间：2016-01-13 23:28:02,457 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access Demo/GetToken  OK
+operParam:openId=xiali&
+ 

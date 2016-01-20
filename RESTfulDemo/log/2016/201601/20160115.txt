@@ -1,0 +1,72 @@
+ 
+时间：2016-01-15 13:04:03,547 线程ID:[8] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access Demo/TestPost  OK
+operParam:&
+ 
+ 
+时间：2016-01-15 15:06:55,663 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access Demo/GetToken  OK
+operParam:openId=xiali&
+ 
+ 
+时间：2016-01-15 15:07:21,697 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion  OK
+operParam:id=1&
+ 
+ 
+时间：2016-01-15 15:15:27,907 线程ID:[6] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion error: Error reading JObject from JsonReader. Path '', line 1, position 74.
+operParam:id=1&
+ 
+ 
+时间：2016-01-15 15:15:42,430 线程ID:[8] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion error: Error reading JObject from JsonReader. Path '', line 1, position 88.
+operParam:id=1&
+ 
+ 
+时间：2016-01-15 15:16:17,357 线程ID:[9] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion error: Error reading JObject from JsonReader. Path '', line 1, position 88.
+operParam:id=1&
+ 
+ 
+时间：2016-01-15 15:24:19,744 线程ID:[9] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion error: Error reading JObject from JsonReader. Path '', line 1, position 89.
+operParam:&
+ 
+ 
+时间：2016-01-15 15:28:00,075 线程ID:[11] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access Demo/GetToken  OK
+operParam:openId=xiali&
+ 
+ 
+时间：2016-01-15 15:29:57,093 线程ID:[7] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion  OK
+operParam:&
+ 
+ 
+时间：2016-01-15 16:14:50,800 线程ID:[6] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion error: 不支持所指定的方法。
+operParam:&
+ 
+ 
+时间：2016-01-15 16:16:21,161 线程ID:[7] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion error: 不支持所指定的方法。
+operParam:&
+ 
+ 
+时间：2016-01-15 16:18:46,623 线程ID:[8] 日志级别：  FATAL 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：::1 access AppUpdate/GetVersion error: 不支持所指定的方法。
+operParam:&
+ 

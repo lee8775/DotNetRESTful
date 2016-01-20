@@ -1,0 +1,52 @@
+
+ 
+记录时间：2016-01-12 16:31:04,008 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：System.Web.Mvc.ExceptionContext property: [(null)] - 
+错误描述：Name
+ 
+
+ 
+记录时间：2016-01-12 16:35:34,549 
+线程ID:[6] 
+日志级别：  ERROR 
+出错类：System.Web.Mvc.ActionExecutedContext property: [(null)] - 
+错误描述：AppUpdate/AppsUpdated
+ 
+
+ 
+记录时间：2016-01-12 17:31:38,740 
+线程ID:[7] 
+日志级别：  ERROR 
+出错类：CustomFilters.LogHelper property: [(null)] - 
+错误描述：AppUpdate/AppsUpdated
+ 
+
+ 
+记录时间：2016-01-12 22:33:51,909 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+错误描述：home/test  OK
+ 
+ 
+记录时间：2016-01-12 22:38:56,756 线程ID:[9] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：home/test  OK
+ 
+ 
+记录时间：2016-01-12 22:48:55,897 线程ID:[6] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：home/testget  OK
+ 
+ 
+记录时间：2016-01-12 22:49:24,975 线程ID:[6] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：home/testpost  OK
+ 
+ 
+记录时间：2016-01-12 22:49:38,663 线程ID:[10] 日志级别：  INFO  
+出错类：CustomFilters.LogHelper property: [(null)] - 
+描述：home/testget  OK
+ 
