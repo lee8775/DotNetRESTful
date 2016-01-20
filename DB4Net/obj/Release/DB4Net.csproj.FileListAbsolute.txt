@@ -1,7 +1,0 @@
-D:\RESTfulDemo\DB4Net\bin\Release\DB4Net.dll
-D:\RESTfulDemo\DB4Net\bin\Release\DB4Net.pdb
-D:\RESTfulDemo\DB4Net\bin\Release\BaseModel.dll
-D:\RESTfulDemo\DB4Net\bin\Release\BaseModel.pdb
-D:\RESTfulDemo\DB4Net\obj\Release\DB4Net.csprojResolveAssemblyReference.cache
-D:\RESTfulDemo\DB4Net\obj\Release\DB4Net.dll
-D:\RESTfulDemo\DB4Net\obj\Release\DB4Net.pdb

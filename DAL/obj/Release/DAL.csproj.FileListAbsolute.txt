@@ -1,9 +1,0 @@
-D:\RESTfulDemo\DAL\bin\Release\DAL.dll
-D:\RESTfulDemo\DAL\bin\Release\DAL.pdb
-D:\RESTfulDemo\DAL\bin\Release\BaseModel.dll
-D:\RESTfulDemo\DAL\bin\Release\DB4Net.dll
-D:\RESTfulDemo\DAL\bin\Release\BaseModel.pdb
-D:\RESTfulDemo\DAL\bin\Release\DB4Net.pdb
-D:\RESTfulDemo\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
-D:\RESTfulDemo\DAL\obj\Release\DAL.dll
-D:\RESTfulDemo\DAL\obj\Release\DAL.pdb
