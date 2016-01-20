@@ -1,0 +1,4 @@
+D:\RESTfulDemo\BaseModel\bin\Release\BaseModel.dll
+D:\RESTfulDemo\BaseModel\bin\Release\BaseModel.pdb
+D:\RESTfulDemo\BaseModel\obj\Release\BaseModel.dll
+D:\RESTfulDemo\BaseModel\obj\Release\BaseModel.pdb

@@ -1,0 +1,9 @@
+D:\RESTfulDemo\CustomFilters\bin\Release\CustomFilters.dll
+D:\RESTfulDemo\CustomFilters\bin\Release\CustomFilters.pdb
+D:\RESTfulDemo\CustomFilters\bin\Release\Common.dll
+D:\RESTfulDemo\CustomFilters\bin\Release\log4net.dll
+D:\RESTfulDemo\CustomFilters\bin\Release\Newtonsoft.Json.dll
+D:\RESTfulDemo\CustomFilters\bin\Release\Common.pdb
+D:\RESTfulDemo\CustomFilters\obj\Release\CustomFilters.csprojResolveAssemblyReference.cache
+D:\RESTfulDemo\CustomFilters\obj\Release\CustomFilters.dll
+D:\RESTfulDemo\CustomFilters\obj\Release\CustomFilters.pdb
